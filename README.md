@@ -1,4 +1,4 @@
-# Homework 4 -- NumPy
+# Homework 5 -- NumPy
 
 - Due Monday, December 4, by 12:00pm (noon)
 
