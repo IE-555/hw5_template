@@ -13,7 +13,7 @@ You need to write one (1) function that calculates some statistics about student
 - Within this python script, you should write a function named `gradeInfo`
 - The `gradeInfo()` function will be called as follows: 
     - `gradeInfo(filename, numExams, hwWeight)`
-        - See `UCASEUBUSERNAME_grades.py` for information about these three input parameters.
+        - See `grades.py` for information about these three input parameters.
 
 Your `gradeInfo()` function should do the following:
 
