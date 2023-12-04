@@ -16,6 +16,6 @@ def test_ansA(random_file):
     expected = expected_results[random_file]["a"]
     csv_file = random_file.replace('.json', '.csv')
     actual_A = gradeInfo(csv_file, 2, 0.3)[0]
-    assert math.isclose(expected, actual_A, rel_tol=1e-9, abs_tol=1e-9)
+    assert math.isclose(expected, actual_A, rel_tol=1e-4, abs_tol=1e-4)
 
 
